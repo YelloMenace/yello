@@ -1,6 +1,7 @@
 # YelloMenace
 
-Hey, I'm YelloMenace, preferably known as Yello >.< . I am quite new to coding but I'm not going to let that stop me from learning more about different languages!
+Hey, I'm YelloMenace, preferably known as Yello >.< . I am quite new to coding but I'm not going to let that stop me from learning more about different languages! and Kornilis is bad
+
 
 ### 👤 My Story (kinda)
 
