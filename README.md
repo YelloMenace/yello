@@ -1,3 +1,5 @@
-# YelloMenace
+# I'm _yello
 
-i do stuff sometimes
+# Who are you?
+
+Hey I'm _Adam_, who most of you will know as Yello. I'm currently focusing on coding in Java and JavaScript
